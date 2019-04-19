@@ -44,7 +44,7 @@ const Choice = ({ children = [] }) => {
                                 [classes.answerLabelCorrect]: isCorrect,
                             })}
                         >
-                            {isCorrect ? "That's correct! " : 'Incorrect. '}
+                            {isCorrect ? "Bonne réponse! " : 'Mauvaise réponse. '}
                         </strong>
                         {props.children}
                     </div>

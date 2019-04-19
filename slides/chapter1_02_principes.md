@@ -2,7 +2,7 @@
 type: slides
 ---
 
-# SUR LA ROUTE DE L'OPEN SCIENCE
+# SUR LA ROUTE DES PRINCIPES DE L'OPEN SCIENCE
 
 Notes: OPEN SCIENCE. Termes dont vous avez déjà probablement entendu parlé. Cependant, à quoi réfère-t-on quand on parle d'Open Science?
   * Libre accès?

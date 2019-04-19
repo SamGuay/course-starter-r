@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 1: Getting started'
+title: "Introduction à l'Open Science"
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  "Cette section vous introduira aux concepts les plus importants de l'Open Science afin d'être en mesure de comprendre les avantages qui en découlent."
 prev: null
 next: /chapter2
 type: chapter
@@ -16,46 +15,67 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Testez vos connaissances générales">
 
-Let's ask some questions about the slides. Whats the correct answer?
+Est-ce que l'Open Science est une nouvelle façon de faire de la science?
 
 <choice>
-<opt text="Answer one">
+<opt text="Oui">
 
-This is not the correct answer.
+Le mouvement d'Open Science n'est pas nouveau à proprement dit. Depuis des décennies, plusieurs chercheurs et chercheuses mettent de l'avant qu'il faut être plus transparent de notre façon de faire et rapporter la science. Mais pourquoi, si depuis les années 1950 on sait tous ça, que les chercheurs et les chercheuses d'aujourd'hui n'en font pas davantage? Ce [***preprint***](https://peerj.com/preprints/27580/) sur les mythes de la publication en libre accès peut vous donner des éléments de réponses!
+
+<br>
+<br>
+
+Trop pareusseux pour lire le preprint? Ça tombe bien, le chapitre 2 vous informera sur le libre accès et ses concepts! Ex: "C'est quoi ça un *preprint*?""
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="Non" correct="true">
 
-Good job!
+Good job! Le mouvement d'Open Science n'est pas nouveau à proprement dit. Depuis des décennies, plusieurs chercheurs et chercheuses mettent de l'avant qu'il faut être plus transparent de notre façon de faire et rapporter la science. Mais pourquoi, si depuis les années 1950 on sait tous ça, que les chercheurs et les chercheuses d'aujourd'hui n'en font pas davantage? Ce [***preprint***](https://peerj.com/preprints/27580/) sur les mythes de la publication en accès libre peut vous donner des éléments de réponses!
+
+<br>
+<br>
+
+Trop paresseux pour lire le preprint? Ça tombe bien, le chapitre 2 vous informera sur l'accès libre et ses concepts! Par exemple, qu'est-ce qu'un preprint?
 
 </opt>
 
-<opt text="Answer three">
+<opt text="Je ne sais pas, je ne veux pas me mouiller">
 
-This is not correct either.
+Quand même, il n'y a aucune gêne à se tromper, essaie à nouveau ;)
 
 </opt>
 </choice>
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Principles d'Open Science" type="slides">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+<slides source="chapter1_01_principes">
+</slides>
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+</exercise>
 
-<codeblock id="01_03">
+<exercise id="2" title="Testez vos connaissances sur les principes">
 
-This is a hint.
+Combien de principes sous-tendent l'Open Science?
 
-</codeblock>
+<choice>
+<opt text="1">
+
+</opt>
+
+<opt text="8">
+
+
+</opt>
+
+<opt text="10" correct="true">
+
+Wouhou! 
+</opt>
+</choice>
 
 </exercise>

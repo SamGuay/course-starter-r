@@ -1,15 +1,15 @@
 {
-    "courseId": "course-starter-r",
-    "title": "My cool online course",
-    "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-r.netlify.com",
-    "twitter": "spacy_io",
+    "courseId": "ospsy",
+    "title": "À la rencontre de l'OPEN SCIENCE",
+    "slogan": "Être à l'avant-garde de la nouvelle vague",
+    "description": "Cette application interactive se veut un complément de l'infographie sur l'Open Science qui vous a décidément motivé à vouloir en apprendre davantage sur l'Open Science.",
+    "bio": "Dans le cadre du cours PSY6304, nous avons développé cette application pour s'amuser et expérimenter une façon innovante d'effectuer du transfert de connaissances. Tous les commentaires / critiques / questions sont les bienvenus :).     Merci! - Eric Pilote, Maïssa Saint-Joy, Mylène Lapierre et Samuel Guay",
+    "siteUrl": "https://ospsy.netlify.com",
+    "twitter": "OSUMontreal",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
     "juniper": {
-        "repo": "ines/course-starter-r",
+        "repo": "samguay/course-starter-r",
         "branch": "binder",
         "lang": "r",
         "kernelType": "ir",
@@ -17,9 +17,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+        { "text": "Site web", "url": "https://ospsy.netlify.com" },
+        { "text": "Code source", "url": "https://github.com/samguay/ospsy" },
+        { "text": "Construit avec ♥ et seulement avec du matériel open source", "url": "https://github.com/samguay/ospsy" }
     ],
-    "theme": "#de7878"
+    "theme": "#10A179"
 }

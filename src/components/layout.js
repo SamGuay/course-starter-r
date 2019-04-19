@@ -56,20 +56,21 @@ const Layout = ({ isHome, title, description, children }) => {
                             <footer className={classes.footer}>
                                 <div className={classes.footerContent}>
                                     <section className={classes.footerSection}>
-                                        <H3>About this course</H3>
+                                        <H3>Qu'est-ce que cette application?</H3>
                                         <p>{meta.description}</p>
+                                        <H3>Qui sommes-nous?</H3>
+
+                                            <p>{meta.bio}</p>
                                     </section>
 
                                     <section className={classes.footerSection}>
-                                        <H3>About me</H3>
-                                        {meta.showProfileImage && (
-                                            <img
-                                                src="/profile.jpg"
-                                                alt=""
-                                                className={classes.profile}
-                                            />
-                                        )}
-                                        <p>{meta.bio}</p>
+                                    {meta.showProfileImage && (
+                                        <img
+                                            src="/profile.jpg"
+                                            alt=""
+                                            className={classes.profile}
+                                        />
+                                    )}
                                     </section>
 
                                     {meta.footerLinks && (
