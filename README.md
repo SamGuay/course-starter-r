@@ -1,8 +1,8 @@
 # À la découverte de l'Open Science
 
-Il s'agit du répertoire d'un projet que nous devions réaliser dans le cadre du cours [PSY 6304 - Transfert et utilisation de la recherche](https://psy.umontreal.ca/fileadmin/Documents/FAS/Psychologie/Documents/1-Programmes-cours/Plans_de_cours/Hiver_2019/PSY6304H.pdf) donné par le [département de psychologie](https://psy.umontreal.ca) de l'[Université de Montréal](https;//umontreal.ca).
+Il s'agit du répertoire pour un projet que nous devions réaliser dans le cadre du cours [PSY 6304 - Transfert et utilisation de la recherche](https://psy.umontreal.ca/fileadmin/Documents/FAS/Psychologie/Documents/1-Programmes-cours/Plans_de_cours/Hiver_2019/PSY6304H.pdf) donné par le [département de psychologie](https://psy.umontreal.ca) de l'[Université de Montréal](https;//umontreal.ca).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SamGuay/ospsy)
+Cette appli ne se veut pas un cours exhaustif, mais bien une preuve de concept.
 
 ## 💖 Crédits 💖
 
@@ -16,9 +16,9 @@ Seulement des ressources open source et gratuites ont été utilisées afin de r
 
 ✅ [Reveal.js pour les présentations](https://revealjs.com)
 
-✅ [MyBinder](https://mybinder.org)
+✅ [MyBinder pour runner le code R (éventuellement)](https://mybinder.org)
 
-✅ [Netlify](https://netlify.com).
+✅ [Netlify pour le déploiement de l'appli](https://netlify.com)
 
 ### :pencil2: Le contenu du matériel a été inspiré par
 
