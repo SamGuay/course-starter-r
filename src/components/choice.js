@@ -30,7 +30,7 @@ const Choice = ({ children = [] }) => {
                 </p>
             ))}
             <Button variant="primary" onClick={handleAnswer}>
-                Submit
+                Soumettre
             </Button>
             {options.map(({ key, props }, i) => {
                 const isCorrect = !!props.correct

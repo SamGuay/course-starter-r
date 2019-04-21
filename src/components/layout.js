@@ -37,7 +37,7 @@ const Layout = ({ isHome, title, description, children }) => {
                             {!isHome && (
                                 <h1 className={classes.logo}>
                                     <Link hidden to="/">
-                                        <Logo width={150} height={54} aria-label={meta.title} />
+                                        <Logo width={200} height={200} aria-label={meta.title} />
                                     </Link>
                                 </h1>
                             )}
@@ -61,12 +61,13 @@ const Layout = ({ isHome, title, description, children }) => {
                                         <H3>Qui sommes-nous?</H3>
 
                                             <p>{meta.bio}</p>
+                                            <small>Eric Pilote, Maïssa Saint-Joy, Mylène Lapierre et Samuel Guay</small>
                                     </section>
 
                                     <section className={classes.footerSection}>
                                     {meta.showProfileImage && (
                                         <img
-                                            src="/profile.jpg"
+                                            src="/first_OS.png"
                                             alt=""
                                             className={classes.profile}
                                         />

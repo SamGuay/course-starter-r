@@ -30,13 +30,19 @@ class Slides extends React.Component {
                 RevealMarkdown.init()
                 Reveal.initialize({
                     center: false,
-                    progress: false,
+                    progress: true,
                     showNotes: true,
+                    // Help the user learn the controls by providing hints, for example by
+                    // bouncing the down arrow when they first encounter a vertical slide
+                    controlsTutorial: true,
                     controls: true,
                     width: '100%',
                     height: 600,
                     minScale: 0.75,
                     maxScale: 1,
+                    // Flags if the presentation is running in an embedded mode,
+                  	// i.e. contained within a limited portion of the screen
+                  	embedded: false,
                 })
             })
         })

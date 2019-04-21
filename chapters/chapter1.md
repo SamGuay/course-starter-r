@@ -51,30 +51,30 @@ Quand même, il n'y a aucune gêne à se tromper, essaie à nouveau ;)
 
 </exercise>
 
-<exercise id="3" title="Principles d'Open Science" type="slides">
+<exercise id="3" title="Principes d'Open Science" type="slides">
 
 <slides source="chapter1_01_principes">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Testez vos connaissances sur les principes">
+<exercise id="4" title="Testez vos connaissances sur les principes">
 
 Combien de principes sous-tendent l'Open Science?
 
 <choice>
 <opt text="1">
-
+sdgdsg
 </opt>
 
 <opt text="8">
-
+zdgdzfgf
 
 </opt>
 
 <opt text="10" correct="true">
 
-Wouhou! 
+Wouhou!
 </opt>
 </choice>
 
