@@ -1,7 +1,7 @@
 ---
 type: slides
 ---
-<!-- .slide: data-background="http://i.giphy.com/90F8aUepslB84.gif" style="color:white" -->
+<!-- .slide: data-background="https://i.giphy.com/90F8aUepslB84.gif" style="color:white" -->
 <h1 class=""> Qui a parlé d'OPEN SCIENCE? :O</h1>
 
 {{% fragment %}} One {{% /fragment %}}
