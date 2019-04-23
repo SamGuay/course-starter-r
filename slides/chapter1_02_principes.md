@@ -17,9 +17,10 @@ Notes: L’[Open and Collaborative Science in Development Network](https://ocsdn
 
 ---
 
-<!-- .slide data-background-iframe="https://viennaprinciples.org/" data-background-interactive> -->
+<!-- .slide data-background-iframe="https://viennaprinciples.org/" data-background-interactive -->
 
 Yer
+
 ----
 
 7 principes...
