@@ -24,6 +24,8 @@ Il s'agit d'une politique qui touche tous les individus financés par les FRQ, t
 Notes: Vous pouvez trouver la nouvelle politique sur le libre accès des FRQ [ici](http://www.frqsc.gouv.qc.ca/science-ouverte)
 
 Nous sommes très heureux de voir le Québec joindre la vague de libre accès! Maintenant, il ne vous reste qu'à comprendre les différents termes en lien avec ce dernier ;)
+
+<img src="/frq.png" alt="Fonds de recherche du Québec" width="60%">
 ---
 # Définition du libre accès (Open Access)
 

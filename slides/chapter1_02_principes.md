@@ -14,3 +14,12 @@ Cette première vidéo produite par l’[OCSDnet](https://ocsdnet.org/) <iframe 
 Notes: L’[Open and Collaborative Science in Development Network](https://ocsdnet.org/faqs/) est un réseau de recherche composé de douze équipes provenant du monde entier. Chaque équipe cherche à comprendre et à explorer, dans leurs contextes respectifs, les facteurs qui favorisent ou entravent les possibilités d'une science *ouverte* à contribuer positivement aux objectifs de développement.
 
 <img src="/OCSD_logo.jpg" alt="Open Science Taxonomy" width="60%">
+
+---
+
+<!-- .slide data-background-iframe="https://viennaprinciples.org/" data-background-interactive> -->
+
+Yer
+----
+
+7 principes...
