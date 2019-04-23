@@ -15,6 +15,9 @@ Saviez-vous que le 15 avril 2019, une nouvelle politique sur le libre accès a �
 
 Cette politique témoigne de la volonté des FRQ de contribuer à rendre la recherche qu'ils soutiennent plus ouverte, équitable et responsable, dans un esprit de développement durable.
 
+Pour donner un libre accès aux résultats de la recherche, la communauté peut :
+* verser leur document écrit final et évalué par les pairs dans un dépôt institutionnel ou disciplinaire en libre accès, au plus tard dans les 12 mois suivant leur publication ; ou
+* publier leur document dans une revue qui offre le libre accès aux articles, au plus tard dans les 12 mois suivant la publication.
 
 Il s'agit d'une politique qui touche tous les individus financés par les FRQ, touchant ainsi aussi les étudiants et les étudiantes boursières!
 

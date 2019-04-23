@@ -8,7 +8,7 @@ Notes: Ce premier module définira les principaux concepts et le vocabulaire en 
 
 Ce module d'apprentissage ne se veut pas exhaustif, mais bien un point de départ qui vous orientera vers des ressources très intéressantes qui sont déjà créées. Vous trouvez les références et les ressources dans le [dernier chapitre](/chapter3)
 
-N.B.: Saviez-vous que tous le site web et l'application ont été construit à partir de logiciel open source, et ce, gratuitement? Vous pourriez construire votre propre application en copiant le code source disponible au bas de la page!
+N.B.: Saviez-vous que le site web et l'application ont été construit à partir de logiciel open source, et ce, gratuitement? Vous pourriez construire votre propre application en copiant le code source disponible au bas de la page! Vous pouvez même contribuer au développement de la plateforme si vous le souhaitez ;)
 
 ---
 # Introduction à l'open science
