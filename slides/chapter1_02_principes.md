@@ -1,42 +1,16 @@
 ---
 type: slides
 ---
+<!-- .slide: data-background="/opening.png" data-background-size="100%" data-background-size="contain" style="color:black" -->
 
-# SUR LA ROUTE DES PRINCIPES DE L'OPEN SCIENCE
+# Les principes et les pratiques en Open Science
 
-Notes: OPEN SCIENCE. Termes dont vous avez déjà probablement entendu parlé. Cependant, à quoi réfère-t-on quand on parle d'Open Science?
-  * Libre accès?
-  * Open source?
-  * Open Data?
-  * Open education?
-  * Tout gratuit?
-  * de la merde?
-  * Le chaos?
+Notes: Le terme "*science ouverte*" n'a pas encore de définition universellement acceptée, mais se réfère généralement à un thème central : **Accroître la disponibilité des connaissances en tant que bien public**, généralement en s'appuyant sur des principes de recherche critiques tels que la crédibilité, la reproductibilité et la vérifiabilité. Beaucoup d'autres termes sont synonymes de science ouverte, tels que Open Research, Open Scholarship, Science 2.0, et eScience.
 
 ---
 
-# SUR LA ROUTE DE L'OPEN SCIENCE 1/x
+Cette première vidéo produite par l’[OCSDnet](https://ocsdnet.org/) <iframe width="100%" height="500" src="https://www.youtube.com/embed/Y1X0xtB_JcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Faire de l'Open Science une réalité
+Notes: L’[Open and Collaborative Science in Development Network](https://ocsdnet.org/faqs/) est un réseau de recherche composé de douze équipes provenant du monde entier. Chaque équipe cherche à comprendre et à explorer, dans leurs contextes respectifs, les facteurs qui favorisent ou entravent les possibilités d'une science *ouverte* à contribuer positivement aux objectifs de développement.
 
-<img src="os_right.jpg" alt="Just science done right" width="60%">
-
-Notes: ### Être optimiste;<br> <br> Avant-gardiste; <br> <br> Ou Utopiste?
-
----
-
-# Preuve de concept, aimez-vous ça jusqu'à maintenant?
-
-Notes: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br> <br> C'est pas facile!
-
----
-
-# Aperçu de la taxonomie d'Open Science
-
-<img src="ostax.png" alt="Open Science Taxonomy" width="50%">
-
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+<img src="/OCSD_logo.jpg" alt="Open Science Taxonomy" width="60%">

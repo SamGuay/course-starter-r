@@ -1,7 +1,7 @@
 ---
-title: "Les avantages de l'Open Science"
+title: "Le libre accès et ses avantages"
 description:
-  "Cette section vous fera découvrir sur quelles bases s'appuient l'Open Science"
+  "Tout sur le libre accès et ses avantages. Voie verte, voie dorée, voie bronze, qu'est-ce que toutes ses voies?"
 prev: /chapter1
 next: /chapter3
 type: chapter

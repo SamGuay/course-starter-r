@@ -2,10 +2,25 @@
     position: relative
     width: 100%
     height: 600px
-    overflow: hidden
+    overflow: visible
 
 .slides
     text-align: left !important
+
+.video-container
+    position: relative
+    padding-bottom: 56.25%
+    padding-top: 30px; height: 0; overflow: hidden
+
+
+.video-container iframe,
+.video-container object,
+.video-container embed
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
 
 \:global
     .reveal
@@ -94,8 +109,9 @@
             margin-bottom: 1.5rem
 
         &:before
-            content: "Script"
+            content: "Notes additionnelles"
             font-weight: bold
+            text-decoration: underline
             color: inherit
             opacity: 1
 
@@ -111,5 +127,7 @@
 
     @media(max-width: 600px)
         .reveal.show-notes .speaker-notes
+            border: 2px solid var(--color-subtle-medium)
             height: auto
             top: 100%
+            overflow: auto

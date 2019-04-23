@@ -1,7 +1,7 @@
 ---
 title: "Introduction à l'Open Science"
 description:
-  "Cette section vous introduira aux concepts les plus importants de l'Open Science afin d'être en mesure de comprendre les avantages qui en découlent."
+  "Cette section vous introduira aux concepts importants de l'Open Science et les bases sur lesquelles elle s'appuie afin d'être en mesure de comprendre le rationnel devant cette façon de faire de la recherche."
 prev: null
 next: /chapter2
 type: chapter
@@ -17,6 +17,8 @@ id: 1
 
 <exercise id="2" title="Testez vos connaissances générales">
 
+Qu'arriverait-il si tout le monde pratique l'open science, ou du moins, ouvrait plus sa science?
+(se référer à la premiere quote)
 Est-ce que l'Open Science est une nouvelle façon de faire de la science?
 
 <choice>
@@ -53,7 +55,7 @@ Quand même, il n'y a aucune gêne à se tromper, essaie à nouveau ;)
 
 <exercise id="3" title="Principes d'Open Science" type="slides">
 
-<slides source="chapter1_01_principes">
+<slides source="chapter1_02_principes">
 </slides>
 
 </exercise>

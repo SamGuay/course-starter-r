@@ -2,32 +2,11 @@
 type: slides
 ---
 
-# SUR LA ROUTE DES CONCEPTS D'OPEN SCIENCE
+# Définition du libre accès (Open Access)
 
-Notes: OPEN SCIENCE. Termes dont vous avez déjà probablement entendu parlé. Cependant, à quoi réfère-t-on quand on parle d'Open Science?
-  * Libre accès?
-  * Open source?
-  * Open Data?
-  * Open education?
-  * Tout gratuit?
-  * de la merde?
-  * Le chaos?
+Notes: on parle de libre accès à la recherche lorsque les articles scientifiques sont accessibles sans restriction et gratuitement à travers différents moyens, tels que dans des dépôts institutionnels ou dans des revues de type libre accès.
 
----
+Sources:
+Making open science a reality (OECD Science, Technology and Industry Policy Papers No 25). (2015). https://doi.org/10.1787/5jrs2f963zs1-en
 
-# Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##
-
-
-
-Notes: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
----
-
-# Ok, bye la! 
-
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+Libre accès à la recherche. (s. d.). Consulté 23 avril 2019, à l’adresse Bibliothèques - Université de Montréal website: https://bib.umontreal.ca/gerer-diffuser/libre-acces

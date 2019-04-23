@@ -37,12 +37,13 @@ class Slides extends React.Component {
                     controlsTutorial: true,
                     controls: true,
                     width: '100%',
-                    height: 600,
-                    minScale: 0.75,
-                    maxScale: 1,
+                    height: 700,
+                    // Bounds for smallest/largest possible scale to apply to content
+                  	minScale: 0.2,
+                  	maxScale: 1.5,
                     // Flags if the presentation is running in an embedded mode,
                   	// i.e. contained within a limited portion of the screen
-                  	embedded: false,
+                  	embedded: true,
                 })
             })
         })
