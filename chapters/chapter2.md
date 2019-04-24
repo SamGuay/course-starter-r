@@ -66,7 +66,7 @@ Ce [***preprint***](https://peerj.com/preprints/27580/) sur 10 mythes de la publ
 
 <opt text="Je ne sais pas, je veux savoir">
 
-N'aie aucune crainte, il n'y a que toi qui verra si tu n'as pas bon. Aucune réponse n'est enregistrée par nous. Essaie donc à noveau :)
+N'aie aucune crainte, il n'y a que toi qui verra si tu n'as pas bon. Aucune réponse n'est enregistrée par nous. Essaie à nouveau :)
 
 </opt>
 </choice>
