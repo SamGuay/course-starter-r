@@ -74,6 +74,15 @@ const Layout = ({ isHome, title, description, children }) => {
                                     )}
                                     </section>
 
+                                    <section>
+                                    {meta.showProfileImage && (
+                                        <img
+                                            src="/info.png"
+                                            alt=""
+                                        />
+                                    )}
+                                    </section>
+
                                     {meta.footerLinks && (
                                         <ul className={classes.footerLinks}>
                                             {meta.footerLinks.map(({ text, url }, i) => (

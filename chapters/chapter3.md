@@ -3,7 +3,7 @@ title: "Pour aller plus loin"
 description:
   "Parce que cette application ne se veut pas exhaustive, nous vous conseillons des ressources supplémentaires gratuitement accessibles en ligne."
 prev: /chapter2
-next: null
+next: /
 type: chapter
 id: 3
 ---
@@ -32,6 +32,8 @@ Toutes ces ressources sont gratuites et accessibles en tout temps.
 [Open Science Framework](https://osf.io)
 
 [Center for Open Science](https://cos.io)
+
+[Open Science Manual](https://docs.google.com/document/d/14dAYQbI-5Afox1Fflm_QEflCJZyx1w6P8uyru5ZfoL4/edit)
 
 [Liste de ressources sur l’OPEN et la vie académique, les stats, la vie de lab, etc.](https://docs.google.com/document/d/1hRFJ3X4iD170DpZdXT_p2lTXiauueUbA5_XNNb8HLu8/edit?usp=sharing) (Créée par Samuel)
 
