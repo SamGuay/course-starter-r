@@ -115,9 +115,11 @@ Voici l'augmentation de la popularité des recherches effectuées ces 10 derniè
 
 <img src="/trends_os_2009-2019_smooth.png" alt="Open Science Taxonomy" height="100%">
 
-<p style="color:orange;">Vous aurez la chance de recréer ce même graphique dans le module sur R!!</p>
+<p style="color:orange;">Vous aurez la chance de recréer ce même graphique dans le RStudio Cloud!!</p>
 
 Notes: Ces dernières, la popularité de l'Open Science ne cesse d'augmenter. Le graphique témoigne de  l'augmentation des recherches effectées sur [Google](https://google.com) qui contiennent les termes "**Open Science**" de 2009 à 2019.
+
+Consulte ce lien vers RStudio pour refaire la même analyse: https://rstudio.cloud/project/320262
 
 *Comment interpréter le graphique:*
 * Les nombres en Y représentent l'intérêt de la recherche par rapport au point le plus élevé sur le graphique selon les région et fenêtre temporelle choisies. Une valeur de 100 est le pic de popularité pour le terme. Une valeur de 50 signifie que le terme est deux fois moins populaire. Un score de 0 signifie qu'il n'y avait pas assez de données pour ce terme.
