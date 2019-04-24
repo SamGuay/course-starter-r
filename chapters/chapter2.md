@@ -80,7 +80,7 @@ N'aie aucune crainte, il n'y a que toi qui verra si tu n'as pas bon. Aucune rép
 
 </exercise>
 
-<exercise id="5" title="Testez vos connaissances">
+<exercise id="6" title="Testez vos connaissances">
 
 Est-ce qu'il est possible de publier en libre accès gratuitement?
 

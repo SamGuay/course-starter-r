@@ -9,7 +9,9 @@ Notes: Le terme "*science ouverte*" n'a pas encore de définition universellemen
 
 ---
 
-Cette première vidéo produite par l’[OCSDnet](https://ocsdnet.org/) <iframe width="100%" height="500" src="https://www.youtube.com/embed/Y1X0xtB_JcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Cette première vidéo produite par l’[OCSDnet](https://ocsdnet.org/) est simplement génial et regroupe les 7 piliers qui seront présentés sur les slides qui suivent.
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Y1X0xtB_JcY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Notes: L’[Open and Collaborative Science in Development Network](https://ocsdnet.org/faqs/) est un réseau de recherche composé de douze équipes provenant du monde entier. Chaque équipe cherche à comprendre et à explorer, dans leurs contextes respectifs, les facteurs qui favorisent ou entravent les possibilités d'une science *ouverte* à contribuer positivement aux objectifs de développement.
 
@@ -19,7 +21,8 @@ Notes: L’[Open and Collaborative Science in Development Network](https://ocsdn
 
 <!-- .slide data-background-iframe="https://viennaprinciples.org/" data-background-interactive -->
 
-Yer
+<iframe width="100%" height="500" src="https://viennaprinciples.org/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ----
 
