@@ -49,3 +49,5 @@ Gitlab
 
 FOSTER
 Open science MOOC
+
+Les notes et les présentations du [Society for the Improvement of Psychological Science (SIPS) 2018 Meeting](https://osf.io/ck28s/)

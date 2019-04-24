@@ -20,13 +20,16 @@ id: 1
 En fonction des différentes définitions présentées, croyez-vous qu'il n'existe qu'une seule façon de pratiquer l'Open Science? En d'autres termes, y a-t-il un moyen unique d'*ouvrir* sa science?
 
 <choice>
+
 <opt text="Oh que oui, il n'y en a qu'une! ">
 Bien essayé, mais considérant comment chaque communauté scientifique définit l'Open Science à sa façon en plus des différentes facettes du *parapluie* qu'est l'Open Science, chaque geste qui ouvre et qui rend accessible un peu plus chaque étape du cycle de recherche est important. Le prochain module montrera une image qui montre 1001 façons d'ouvrir sa science!
 
 </opt>
 
 <opt text="L'Open Science est un mouvement, donc non." correct="true">
-Voir le mouvement de l'Open Science comme un spectre d'actions possibles afin de passer d'une *science fermée* à une *science complètement ouverte* est un bon début. Considérant comment chaque communauté scientifique définit l'Open Science à sa façon en plus des différentes facettes du *parapluie* qu'est l'Open Science, chaque geste qui ouvre et qui rend accessible un peu plus chaque étape du cycle de recherche est important. Le prochain module montrera une image qui montre 1001 façons d'ouvrir sa science! Il est important de comprendre que ce n'est pas dichotomique, mais bien une séries d'actions possibles.
+
+Voir le mouvement de l'Open Science comme un spectre d'actions possibles afin de passer d'une *science fermée* à une *science complètement ouverte* est un bon début. Considérant comment chaque communauté scientifique définit l'Open Science à sa façon en plus des différentes facettes du *parapluie* qu'est l'Open Science, chaque geste qui ouvre et qui rend accessible un peu plus chaque étape du cycle de recherche est important. Il est important de comprendre que ce n'est pas dichotomique, mais bien une séries d'actions possibles. Le prochain module montrera une image qui montre 1001 façons d'ouvrir sa science!
+
 </opt>
 
 <opt text="Je ne sais pas, je ne veux pas me mouiller">
@@ -52,11 +55,13 @@ Est-ce des principes ou des pratiques qui sous-tendent l'Open Science?
 
 <choice>
 <opt text="Des principes">
+
 Bien essayé, mais l'Open Science est bien plus que des principes qui guident nos actions vers une pratique de la science inclusive, équitable et .
 
 </opt>
 
 <opt text="Des pratiques">
+
 Bien essayé, mais l'Open Science est bien plus que des pratiques mises en place pour effectuer de la recherche collaborative, transparente et reproductible.
 
 </opt>
@@ -79,7 +84,6 @@ Le mouvement pour l'Open Science englobe les deux et même plus! Certains argume
 </br>
 
 *If Open Science is a behavior that means it is not necessarily excessively stable – practices can obviously vary from project to project. We’ll have to resist the very strong urge to heuristically classify researchers as Open or Not Open and the desire to award quality points accordingly. We’ll have to judge each project, each study, on its own merits, including the presence and implementation of various open practices."*
-
 
 </opt>
 </choice>

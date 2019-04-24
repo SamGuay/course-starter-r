@@ -1,12 +1,16 @@
 ---
 type: slides
 ---
-<!-- .slide: data-background="/opening.png" data-background-size="100%" data-background-size="contain" style="color:black" -->
 
-# Les principes et les pratiques en Open Science
+# Concrètement, à quoi ressemble l'Open Science?
 
 Notes: Le terme "*science ouverte*" n'a pas encore de définition universellement acceptée, mais se réfère généralement à un thème central : **Accroître la disponibilité des connaissances en tant que bien public**, généralement en s'appuyant sur des principes de recherche critiques tels que la crédibilité, la reproductibilité et la vérifiabilité. Beaucoup d'autres termes sont synonymes de science ouverte, tels que Open Research, Open Scholarship, Science 2.0, et eScience.
 
+---
+
+<!-- .slide: data-background="/opening.png" data-background-size="100%" data-background-size="contain" style="color:black" -->
+
+Notes: Voici les 1001 façons dont une personne peut ouvrir sa science.
 ---
 
 Cette première vidéo produite par l’[OCSDnet](https://ocsdnet.org/) est simplement génial et regroupe les 7 piliers qui seront présentés sur les slides qui suivent.
@@ -17,13 +21,11 @@ Notes: L’[Open and Collaborative Science in Development Network](https://ocsdn
 
 <img src="/OCSD_logo.jpg" alt="Open Science Taxonomy" width="60%">
 
----
 
-<!-- .slide data-background-iframe="https://viennaprinciples.org/" data-background-interactive -->
-
-<iframe width="100%" height="500" src="https://viennaprinciples.org/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ----
 
 7 principes...
+
+<iframe width="100%" height="500" src="https://viennaprinciples.org/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
