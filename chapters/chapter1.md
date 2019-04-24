@@ -17,7 +17,7 @@ id: 1
 
 <exercise id="2" title="Testez vos connaissances générales">
 
-Est-ce qu
+Est-ce qu'il y a une définition
 <choice>
 <opt text="Oui">
 
@@ -59,21 +59,23 @@ Quand même, il n'y a aucune gêne à se tromper, essaie à nouveau ;)
 
 <exercise id="4" title="Testez vos connaissances sur les principes">
 
-Combien de principes sous-tendent l'Open Science?
+Est-ce des principes ou des pratiques qui sous-tendent l'Open Science?
 
 <choice>
-<opt text="1">
-sdgdsg
-</opt>
-
-<opt text="8">
-zdgdzfgf
+<opt text="Des principes">
+Bien essayé, mais l'Open Science est bien plus que des principes qui guident nos actions vers une pratique de la science inclusive, équitable et .
 
 </opt>
 
-<opt text="10" correct="true">
+<opt text="Des pratiques">
+Bien essayé, mais l'Open Science est bien plus que des pratiques mises en place pour effectuer de la recherche collaborative, transparente et reproductible.
 
-Wouhou!
+</opt>
+
+<opt text="Les deux" correct="true">
+
+Et même plus! Certains argumentent même que l'Open Science pourrait être perĉu comme un ensemble de comportements à adopter pour développer des bonnes habitudes de bonnes pratiques de recherche. sips18)
+
 </opt>
 </choice>
 
