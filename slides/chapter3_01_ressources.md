@@ -31,3 +31,8 @@ Bref, beaucoup de mots possibles pour parler de l’Open Science, mais nous esp�
 D'emblée, il est important de considérer qu’une approche unique *one size fits all* n’est pas possible puisque chaque communauté scientifique définit l'Open Science à sa façon. Voyons voir...
 
 ---
+openscience.ca
+
+OSF
+COS
+mon google doc

@@ -15,7 +15,7 @@ Saviez-vous que le 15 avril 2019, une nouvelle politique sur le libre accès a �
 
 Cette politique témoigne de la volonté des FRQ de contribuer à rendre la recherche qu'ils soutiennent plus ouverte, équitable et responsable, dans un esprit de développement durable.
 
-Pour donner un libre accès aux résultats de la recherche, la communauté peut :
+Selon cette politique, pour donner un libre accès aux résultats de la recherche, la communauté peut :
 * verser leur document écrit final et évalué par les pairs dans un dépôt institutionnel ou disciplinaire en libre accès, au plus tard dans les 12 mois suivant leur publication ; ou
 * publier leur document dans une revue qui offre le libre accès aux articles, au plus tard dans les 12 mois suivant la publication.
 
@@ -34,7 +34,7 @@ Nous sommes très heureux de voir le Québec joindre la vague de libre accès! M
 * gratuitement
 * pour le plus grand nombre de personnes possibles
 
-<a class="fragment"><img src="oa_1.png" alt="Open Access, no limit!" height="40%"></a>
+<a class="fragment"><img src="oa_1.png" alt="Open Access, no limit!" height="40%" style="float: right></a>
 
 Notes: On parle de libre accès à la recherche lorsque les articles scientifiques sont accessibles sans restriction et gratuitement à travers différents moyens, tels que dans des dépôts institutionnels ou dans des revues de type libre accès.
 
