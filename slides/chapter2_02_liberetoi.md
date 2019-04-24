@@ -45,9 +45,9 @@ Source: Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. 
 
 # Collaboration internationale
 
-<p style="font-size: 2rem; font-style: italic; text-align: left"> <b>56%</b> des institutions médicales dans les pays à faible revenu ne sont membre d’aucun journal scientifique (OECD Science, 2015)</p>
+<p style="font-size: 3rem; font-style: italic; text-align: left"> <b>56%</b> des institutions médicales dans les pays à faible revenu ne sont membre d’aucun journal scientifique (OECD Science, 2015)</p>
 
-<img src="oa_9.png" alt="Collaboratio internationale" width="45%" style="float: right"></a>
+<img src="oa_9.png" alt="Collaboratio internationale" width="45%" style="float: right">
 
 En réponse à ce faible pourcentage, une initiative telle que **Research4Life** a été créée (OECD Science, 2015; Tennant et al, 2018; )
 C’est une plateforme donnant accès à du contenu académique en ligne gratuit ou à faible coût à des pays en développement afin de réduire le “knowledge gap” entre ces pays et les pays à haut revenu.
@@ -66,15 +66,19 @@ Sources:
 [Evans, J. A., & Reimer, J. (2009). Open access and global participation in science. Science, 323(5917), 1025‑1025.](https://doi.org/10.1126/science.1154562)
 
 ---
+
 # Stimule l'innovation
 
 En augmentant l’accès aux résultats de recherches, ces données peuvent être utiliser et réutiliser par le grand public et les entreprises
+
+<img src="oa_11.png" alt="" width="35%" style="float: right">
 
 Cela peut les motiver à innover en se basant sur les données probantes et par le fait même stimuler l’économie locale et globale.
 
 Notes: Il n’y a pas que le milieu académique qui désire avoir accès à la recherche, **40%** des utilisateurs de la base de données PubMed sont des citoyens du grand public (OECD Science, 2015)
 
 Étant donné que les fonds publics financent les recherches scientifiques, ce grand public devrait avoir accès aux résultats de leur investissement. Cela peut mener à une volonté de leur part de s’impliquer dans différents projet de recherche.
+
 
 Sources:
 [Making open science a reality - OECD](https://doi.org/10.1787/5jrs2f963zs1-en)
@@ -83,11 +87,35 @@ Sources:
 
 ---
 
+# Exemple concret du ralentissement de la science
+
+Si seulement les recherches sur l'Ebola menées au Liberia dans les années 1980 avaient toujours été en libre accès, nous aurions peut-être pu éviter la récente crise de 2014 selon [certains](https://doi.org/10.1186/s12961-017-0235-3).
+
+La publication en libre accès peut permettre un accès accru à la recherche en santé mondiale, évitant ainsi des catastrophes. Ce graphique démontre quels types d'articles sont citées par les pays divisés en fonction de leur revenu.
+
+<img src="oa_citing.jpg" alt="Citing GHS" width="100%" style="float: center">
+
+Notes: Une chose est certaine, le libre accès facilite le transfert des connaissances en ne limitant pas l'accès au savoir.
+Le libre accès permet également de résoudre des problème hors de son champs d’expertise (Lakhani et al., 2007)
+Plus large, l'Open Science peut réduire les délais dans la réutilisation des résultats scientifiques.
+
+L’OS et l’OA peuvent améliorer l’efficacité et productivité en science en:
+
+→ réduisant la duplication (Kowalczyk and Shankar, 2010)
+
+→ permettant plus de recherches avec les mêmes données (groover, 2009)
+
+L’OA permet la vérification des résultats scientifiques et la re-analyse des données pour différents objectifs (Brase et al., 2009; Piwowar and Chapman, 2008).
+
+Murray et al (2009) ont constaté que l’OA encouragent l’établissement de nouvelles directions de recherche et donc incitent à effectuer des recherches supplémentaires
+
+---
+
 Plusieurs d'autres avantages existent...
 
 Ce vidéo présente bien les 3 principaux avantages en faveur du libre accès!
 
-<iframe width="80%" height="80%" src="https://www.youtube.com/embed/gzRgknylTEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="80%" src="https://www.youtube.com/embed/VDLr0HJ5j7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

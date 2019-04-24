@@ -17,10 +17,7 @@ id: 1
 
 <exercise id="2" title="Testez vos connaissances générales">
 
-Qu'arriverait-il si tout le monde pratique l'open science, ou du moins, ouvrait plus sa science?
-(se référer à la premiere quote)
-Est-ce que l'Open Science est une nouvelle façon de faire de la science?
-
+Est-ce qu
 <choice>
 <opt text="Oui">
 

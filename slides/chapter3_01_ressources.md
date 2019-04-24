@@ -36,3 +36,16 @@ openscience.ca
 OSF
 COS
 mon google doc
+
+https://portagenetwork.ca/fr/
+
+R
+RStudio
+RStudio.cloud
+Python
+
+Github
+Gitlab
+
+FOSTER
+Open science MOOC

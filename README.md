@@ -4,6 +4,8 @@ Il s'agit du répertoire pour un projet que nous devions réaliser dans le cadre
 
 Cette appli ne se veut pas un cours exhaustif, mais bien une preuve de concept.
 
+
+
 ## 💖 Crédits 💖
 
 Seulement des ressources open source et gratuites ont été utilisées afin de rendre cette application possible.
@@ -18,7 +20,7 @@ Seulement des ressources open source et gratuites ont été utilisées afin de r
 
 ✅ [MyBinder pour runner le code R (éventuellement)](https://mybinder.org)
 
-✅ [Netlify pour le déploiement de l'appli](https://netlify.com)
+✅ [!Netlify pour le déploiement de l'application](https://api.netlify.com/api/v1/badges/528387b2-fa91-4b0c-a934-3b2a45f0b3f8/deploy-status)](https://app.netlify.com/sites/decouvre/deploys)
 
 ### :pencil2: Le contenu du matériel a été inspiré par
 
