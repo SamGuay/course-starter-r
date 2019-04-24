@@ -1,71 +1,96 @@
 ---
 type: slides
 ---
-
-# Pourquoi le libre accès?
-
-Notes: Plusieurs raisons sont valables lorsqu'il est question de vouloir faire du libre accès. Cependant, plusieurs mythes et préjugés persistent encore de nos jours. Pour cette raison, ce module expliquera ce qu'est le libre accès et ses avantages en proposant des lectures sur les mythes. Il s'agit d'un complément à l'infographie qui vous a mené ici!
-
----
-<!-- .slide data-background-iframe="http://www.frqs.gouv.qc.ca/espace-presse/nouvelles-et-communiques/nouvelle/les-fonds-de-recherche-du-quebec-devoilent-leur-politique-sur-le-libre-acces-ynqdk6uy1554124767115" data-background-interactive> -->
-
-# Nouvelle politique implantée au Québec!!
-
-Saviez-vous que le 15 avril 2019, une nouvelle politique sur le libre accès a été instauré par les Fonds de recherche du Québec(FRQ):
-
-Cette politique témoigne de la volonté des FRQ de contribuer à rendre la recherche qu'ils soutiennent plus ouverte, équitable et responsable, dans un esprit de développement durable.
-
-Selon cette politique, pour donner un libre accès aux résultats de la recherche, la communauté peut :
-* verser leur document écrit final et évalué par les pairs dans un dépôt institutionnel ou disciplinaire en libre accès, au plus tard dans les 12 mois suivant leur publication ; ou
-* publier leur document dans une revue qui offre le libre accès aux articles, au plus tard dans les 12 mois suivant la publication.
-
-Il s'agit d'une politique qui touche tous les individus financés par les FRQ, touchant ainsi aussi les étudiants et les étudiantes boursières!
-
-Notes: Vous pouvez trouver la nouvelle politique sur le libre accès des FRQ [ici](http://www.frqsc.gouv.qc.ca/science-ouverte)
-
-Nous sommes très heureux de voir le Québec joindre la vague de libre accès! Maintenant, il ne vous reste qu'à comprendre les différents termes en lien avec ce dernier ;)
-
-<img src="/frq.png" alt="Fonds de recherche du Québec" width="60%">
----
-# Définition du libre accès (Open Access)
-
-## La connaissance scientifique accessible:
-* sans restriction
-* gratuitement
-* pour le plus grand nombre de personnes possibles
-
-<a class="fragment"><img src="oa_1.png" alt="Open Access, no limit!" height="40%" style="float: right></a>
-
-Notes: On parle de libre accès à la recherche lorsque les articles scientifiques sont accessibles sans restriction et gratuitement à travers différents moyens, tels que dans des dépôts institutionnels ou dans des revues de type libre accès.
-
-Sources:
-[Making open science a reality (OECD Science, Technology and Industry Policy Papers No 25). (2015).](https://doi.org/10.1787/5jrs2f963zs1-en)
-
-[Libre accès à la recherche - Excellente ressource de l'Université de Montréal](https://bib.umontreal.ca/gerer-diffuser/libre-acces)
-
----
-
-# Proportions des types de revues savantes en 2016
-
-<img src="oa_3.png" alt="" height="100%"></a>
-
-Notes: Près de 40% des revues savantes publient leurs articles derrière un paywall et permettent généralement une publication en ligne de versions gratuites qu’après au moins 6 mois.
-
-Les revues scientifiques “delayed OA” publient des articles derrière un *paywall* qui requièrent un paiement afin de les consulter. Ils n'autorisent généralement la publication en ligne de versions gratuites qu'après un certain délai variant de 6 à 24 mois.
-
-*La somme des pourcentages du graphique ne correspond pas à 100%, car les chiffres sont arrondis.
-
-Source:
-[Else, H. (2018, septembre 6). Radical plan to end paywalls. NATURE: international journal of science, 561, 17‑18.](https://www.nature.com/articles/d41586-018-06178-7)
-
-
----
 <!-- .slide: data-background="oa_2.png" data-background-size="contain" style="color:black" data-transition="zoom" -->
 
-# Des avantages?
+# Des avantages? Où ça?
 
-Notes: Si autant de revues savantes sont derrière un paywall, comment fait-on pour bénéficier de tous ses avantages en publiant en libre accès?
+Notes: Enfin, voyons voir comment le libre accès peut aider à démocratiser la science et à vous aider dans votre carrière.
 
-Après avoir consulté les différents avantages, vous apprendrez les différents types de libre accès!
+---
+# Le fameux avantage de la citation
+<img src="oa_8.png" alt="citation" width="30%" style="float: right">
 
-Saviez-vous que nous pouvions exercer du libre accès **tout à fait gratuitement**? :O
+Celui qui est communément appelé *Open Citation Advantage* existe vraiment!! Les publications scientifiques accessibles en libre accès ont tendance à être plus lues et citées.
+
+Une [revue systématique](https://doi.org/10.7717/peerj.4375) publiée en 2018 est arrivée à la conclusion que les publications en libre-accès favorisent une augmentation de **18%** plus de citations.
+<img src="oa_7.jpg" alt="citation" width="60%" style="float: left">
+
+Notes: La voie verte est un accès gratuit aux articles scientifiques, ce qui peut expliquer cet effet! [Piwowar, 2018]((https://doi.org/10.7717/peerj.4375)) Elle peut aussi être expliquée par la liberté que les lecteurs ressentent quant aux choix de l’informations à utiliser et citer, sans aucune contrainte reliée à l’accès. Certaines autres recherches évoquent plutôt le biais de qualité; c’est-à-dire que les chercheurs ont tendance à publier leurs meilleurs articles en accès libre et ceux-ci sont plus cités. (OECD Science, 2015; Tennant et al, 2018)
+
+
+La 2e image démontre bien comment cet avantage est influencée par les différents domaines.
+
+---
+<img src="oa_10.png" alt="Collaboratio internationale" width="45%" style="float: right">
+
+# Au-delà des citations,
+
+# Les articles en libre accès reçoivent de *1.2 à 1.48* fois plus d’attention sur les réseaux sociaux (Facebook et Twitter).
+
+# Dans la littérature scientifique, un [essai controlé randomisé en 2008](https://www.bmj.com/content/337/bmj.a568) a mis en lumière que les articles en libre accès était associé à 89% plus de téléchargements de l'article complet à l'intérieur des 6 premiers mois en plus d'attirer 23% plus de visiteurs uniques comparativement à un article derrière un *paywall*.
+
+Les [*Altmetrics*](https://www.altmetric.com/) sont des nouvelles mesures alternatives qui servent à mesurer l'impact des recherches publiées.
+
+Notes: Il n’y a pas que le “citation advantage” pour les articles accessibles en OA. Il existe également cet avantage “altmetric”. Les articles en libre accès peuvent en effet recevoir plus d’attention sur les réseaux sociaux.
+
+Logiquement, si un article n’est pas difficilement accessible (gratuit) aux journalistes, citoyens, entrepreneurs et décideurs, ces différents groupes de personnes seront encouragés à le partager dans leurs réseaux respectifs.
+
+Source: Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. J. (2016). The academic, economic and societal impacts of Open Access: an evidence-based review. F1000Research, 5, 632. https://doi.org/10.12688/f1000research.8460.3Tennant
+[Davis et al. (2008). Open access publishing, article downloads, and citations: randomised controlled trial](https://www.bmj.com/content/337/bmj.a568)
+
+<a href="https://www.altmetric.com/"><img src="altmetrics.png" alt="Altmetrics" width="100%" style=""></a>
+
+---
+
+# Collaboration internationale
+
+<p style="font-size: 2rem; font-style: italic; text-align: left"> <b>56%</b> des institutions médicales dans les pays à faible revenu ne sont membre d’aucun journal scientifique (OECD Science, 2015)</p>
+
+<img src="oa_9.png" alt="Collaboratio internationale" width="45%" style="float: right"></a>
+
+En réponse à ce faible pourcentage, une initiative telle que **Research4Life** a été créée (OECD Science, 2015; Tennant et al, 2018; )
+C’est une plateforme donnant accès à du contenu académique en ligne gratuit ou à faible coût à des pays en développement afin de réduire le “knowledge gap” entre ces pays et les pays à haut revenu.
+
+Notes: Étant donné que la communauté scientifique des pays à faible revenu dispose de moins de capacité financières et humaines pour entreprendre des collecte de données importantes, l’OA est important. Le libre accès leur permettrait de réutiliser les données afin contribuer à la science (OECD Science, 2015). Une étude de Evans & Reimer (2009) rapporte que l’OA a eu un effet plus important dans les pays en développement de l’hémisphère Sud par rapport aux pays à haut revenu des hémisphères Nord et Ouest.
+
+De plus, les défis mondiaux demandent des actions internationales coordonnées. OS et OA peuvent promouvoir les efforts collaboratifs et un transfert de connaissances plus rapide pour une meilleure compréhension de défis mondiaux et aider à identifier des solutions (OECD Science, 2015)
+
+Sources:
+[Making open science a reality - OECD](https://doi.org/10.1787/5jrs2f963zs1-en)
+
+[Research4life](https://www.research4life.org/about/)
+
+[Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. J. (2016). The academic, economic and societal impacts of Open Access: an evidence-based review. F1000Research, 5, 632.](https://doi.org/10.12688/f1000research.8460.3Tennant)
+
+[Evans, J. A., & Reimer, J. (2009). Open access and global participation in science. Science, 323(5917), 1025‑1025.](https://doi.org/10.1126/science.1154562)
+
+---
+# Stimule l'innovation
+
+En augmentant l’accès aux résultats de recherches, ces données peuvent être utiliser et réutiliser par le grand public et les entreprises
+
+Cela peut les motiver à innover en se basant sur les données probantes et par le fait même stimuler l’économie locale et globale.
+
+Notes: Il n’y a pas que le milieu académique qui désire avoir accès à la recherche, **40%** des utilisateurs de la base de données PubMed sont des citoyens du grand public (OECD Science, 2015)
+
+Étant donné que les fonds publics financent les recherches scientifiques, ce grand public devrait avoir accès aux résultats de leur investissement. Cela peut mener à une volonté de leur part de s’impliquer dans différents projet de recherche.
+
+Sources:
+[Making open science a reality - OECD](https://doi.org/10.1787/5jrs2f963zs1-en)
+
+[Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. J. (2016). The academic, economic and societal impacts of Open Access: an evidence-based review. F1000Research, 5, 632.](https://doi.org/10.12688/f1000research.8460.3Tennant)
+
+---
+
+Plusieurs d'autres avantages existent...
+
+Ce vidéo présente bien les 3 principaux avantages en faveur du libre accès!
+
+<iframe width="80%" height="80%" src="https://www.youtube.com/embed/gzRgknylTEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Es-tu convaincu.e?
+
+Notes: Une autre petite question à répondre avant de passer à la prochaine section sur les différents types de libre accès!

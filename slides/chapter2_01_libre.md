@@ -63,7 +63,7 @@ Source:
 # Situation actuelle du mode de publication traditionnel
 
 Triple coût de la publication:
-<img src="oa_4.png" alt="Money" width="40%" style="float: right"></a>
+<img src="oa_4.png" alt="Money" width="40%" style="float: right">
 
 Les contribuables paient pour:
 
@@ -87,6 +87,12 @@ Par exemple, l'[*University of California*](https://www.universityofcalifornia.e
 Notes: De même, les universités d'Allemagne dont celles de la [Max Planck Society](https://www.the-scientist.com/news-opinion/max-planck-society-ends-elsevier-subscription-65258) ainsi que d'autres de [Suède](https://www.the-scientist.com/news-opinion/universities-in-germany-and-sweden-lose-access-to-elsevier-journals--64522) et Hongrie ont également brisé leur contrat. Ils évoquent que la compagnie ne prendre pas suffisamment d'initiatives en faveur de l'Open Access.
 
 En effet, seulement 7% des 470 000 articles publiés par Elsevier en 2018 étaient en libre accès. Pour approfondir [vos connaissances sur la situation](https://www.ft.com/content/30ceaafc-6441-11e9-9adc-98bf1d35a056).
+
+[Voici les revenus des trois grands éditeurs en 2017](https://doi.org/10.1126/science.aaw2107):
+* Elsevier: 3.2 millards de $ US dont 37% de ces revenus étaient du PROFIT!!
+* Springer Nature: 1.9 millards de $ US
+* Wiley: 1.7 millards de $ US
+
 ---
 
 # Pour ces raisons (et plusieurs autres), pleins d'initiatives et de politiques ont vue le jour afin de démocratiser la science

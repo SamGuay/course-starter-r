@@ -16,15 +16,15 @@ id: 2
 
 <exercise id="2" title="Testez vos connaissances">
 
-Est-ce que le
+Est-ce qu'un article dit en libre accès est forcément gratuit?
 
 <choice>
-<opt text="Oui">
+<opt text="Oui" correct="true">
 texte explicatif
 
 </opt>
 
-<opt text="Non" correct="true">
+<opt text="Non">
 
 Good job! Le mouvement d'Open Science n'est pas nouveau à proprement dit. Depuis des décennies, plusieurs chercheurs et chercheuses mettent de l'avant qu'il faut être plus transparent de notre façon de faire et rapporter la science. Mais pourquoi, si depuis les années 1950 on sait tous ça, que les chercheurs et les chercheuses d'aujourd'hui n'en font pas davantage? Ce [***preprint***](https://peerj.com/preprints/27580/) sur les mythes de la publication en accès libre peut vous donner des éléments de réponses!
 
@@ -39,7 +39,7 @@ Quand même, il n'y a aucune gêne à se tromper, essaie à nouveau ;)
 
 </exercise>
 
-<exercise id="3" title="Comment rendre sa recherche libre?" type="slides">
+<exercise id="3" title="Quels sont les avantages associés au libre accès?" type="slides">
 
 <slides source="chapter2_02_liberetoi">
 </slides>
